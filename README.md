@@ -1,28 +1,49 @@
-## Hi there 👋
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&text=INSANE%20BRAIN%20GG&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&desc=Developing%20games%20since%202016!&descSize=20&descAlign=50&descAlignY=80&textBg=false&theme=radical"  />
+</div>
 
-I'm James, but I go by Insane Brain. I am a game developer just working by myself for now.
-I use Godot for my game engine. I don't use Roblox anymore for creating stuff anymore.
-I've made some projects on Godot like this snake game.
+###
 
-8/10 Programming | I've learned Lua, GDScript, Python only the basics.
-3/10 SFX / Music | I don't know that much about music but I can make some what good sound effects.
-6/10 Art | Decent my skill massively goes up if I'm enjoying it.
+<h1 align="left">Insane Brain GG</h1>
 
-<p>I made this game because I was bored and wanted to release something ig.<br></p>
-<p>It's a snake game there's not that much to it.<strong></strong><br>PC only to lazy to implement mobile controls.</p>
-<p><iframe height="167" width="552" src="https://itch.io/embed/4424827?bg_color=549b18&fg_color=ffeb1f&link_color=ccfa5b&border_color=e6c700" frameborder="0"><a href="<a href="https://insanebraingg.itch.io/snake">Snake" class="redactor-linkify-object">https://insanebraingg.itch.io/snake">Snake</a> by InsaneBrainGG</a></iframe><br></p>
+###
 
-<!--
-**insanebraingg/insanebraingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">I'm James, but I go by Insane Brain. I am a game developer just working by myself for now. There is this one big project that I'm working on but I'm not that far into development to actually show stuff to actual people. While I was making that I made a smaller game. It's a snake game it's okay but I did  learn some stuff while making that game.</p>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">What I do?</h2>
+
+###
+
+<p align="left">I use Godot for my game engine. I don't use Roblox anymore for creating stuff anymore. I've made some projects on Godot like this snake game. My first project's were on Roblox. I think they're pretty idea's but it gave me a foundation enough to move to Godot.</p>
+
+###
+
+<h2 align="left">Where'd I start?</h2>
+
+###
+
+<p align="left">I started in 2016 when I found Roblox. I saw what people were creating on Roblox and started creating games for myself. I never released them publicly in the first couple years but three years later I made some games public. I started doing more projects and started making frameworks. Roblox gave me a solid foundation to start so I switched to Godot. I switched to Godot because It was more stable. Godot is a solid choice for indie developers.</p>
+
+###
+
+<h2 align="left">How I rate myself</h2>
+
+###
+
+<p align="left">8/10 Programming | I've learned Lua, GDScript, Python only the basics.<br>3/10 SFX / Music | I don't know that much about music but I can make some what good sound effects.<br>6/10 Art | Decent my skill massively goes up if I'm enjoying it.<br>2/10 Modeling | I don't make good models but decent enough for low poly games.</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+</div>
+
+###
