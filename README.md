@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm James, but I go by Insane Brain. I am a game developer just working by myself for now. There is this one big project that I'm working on but I'm not that far into development to actually show stuff to actual people. While I was making that I made a smaller game. It's a snake game it's okay but I did learn some stuff while making that game.</p>
+<p align="left">I'm James, founder of Warpa Lab. I am a game developer just working by myself for now. There is this one big project that I'm working on but I'm not that far into development to actually show stuff to actual people. While I was making that I made a smaller game. It's a snake game it's okay but I did learn some stuff while making that game.</p>
 
 ###
 
